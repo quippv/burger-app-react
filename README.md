@@ -1,14 +1,6 @@
 # BURGER APP - Order Your Burger
 
-<<<<<<< HEAD
 ## Description
-=======
-## BURGER APP
-
-This project I make it for local burger store, you can see the project at https://react-my-burger-ef278.web.app/
-
-## Available Scripts
->>>>>>> 20e89eff25960ed21f976768349fd5d7a1d07f3b
 
 I got idea for this project because if I wanna buy a burger it's not effective for order to the store, So I inspire to build delivery app for order burger.
 
