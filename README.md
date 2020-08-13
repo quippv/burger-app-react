@@ -6,6 +6,12 @@ I got idea for this project because if I wanna buy a burger it's not effective f
 
 ## How to Use
 
+#### for install npm
+```console
+npm install
+```
+
+#### for run web app
 ``` console
 npm run start
 ```
